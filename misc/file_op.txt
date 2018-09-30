@@ -1,0 +1,197 @@
+ @Given("^User on dashboard page$")
+ public void clickDashBoardIcon() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clickDashBoardIcon()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clickDashBoardIcon()");
+  }
+
+  logger.info(LogConstant.EXIT + "clickDashBoardIcon()");
+
+ }
+
+ @When("^User clicks on profile$")
+ public void clickProfileIcon() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clickProfileIcon()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clickProfileIcon()");
+  }
+
+  logger.info(LogConstant.EXIT + "clickProfileIcon()");
+
+ }
+
+ @When("^clicks on profile setting$")
+ public void clickProfileSetting() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clickProfileSetting()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clickProfileSetting()");
+  }
+
+  logger.info(LogConstant.EXIT + "clickProfileSetting()");
+
+ }
+
+ @Then("^User enables the required cards to display$")
+ public void enableDashBoardCards() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "enableDashBoardCards()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in enableDashBoardCards()");
+  }
+
+  logger.info(LogConstant.EXIT + "enableDashBoardCards()");
+
+ }
+
+ @When("^Stone value is greater than zero and User clicks on uploaded stones count$")
+ public void clickUploadedStone() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clickUploadedStone()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clickUploadedStone()");
+  }
+
+  logger.info(LogConstant.EXIT + "clickUploadedStone()");
+ }
+
+ @Then("^User is redirected to uploaded stone page$")
+ public void checksUploadedStonePage() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "checksUploadedStonePage()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in checksUploadedStonePage()");
+  }
+
+  logger.info(LogConstant.EXIT + "checksUploadedStonePage()");
+ }
+
+ @When("^User clicks on Bid to Buy stones count$")
+ public void clicksBidToBuyCard() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clicksBidToBuyCard()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clicksBidToBuyCard()");
+  }
+
+  logger.info(LogConstant.EXIT + "clicksBidToBuyCard()");
+ }
+
+ @Then("^User is redirected to Bid to Buy Stone page$")
+ public void checksBidToBuyStonePage() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "checksBidToBuyStonePage()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in checksBidToBuyStonePage()");
+  }
+
+  logger.info(LogConstant.EXIT + "checksBidToBuyStonePage()");
+ }
+
+ @When("^User clicks on My Basket stones count$")
+ public void clicksMyBasketStoneCard() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clicksMyBasketStoneCard()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clicksMyBasketStoneCard()");
+  }
+
+  logger.info(LogConstant.EXIT + "clicksMyBasketStoneCard()");
+
+ }
+
+ @Then("^User is redirected to My Basket page$")
+ public void checksMyBasketPage() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "checksMyBasketPage()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in checksMyBasketPage()");
+  }
+
+  logger.info(LogConstant.EXIT + "checksMyBasketPage()");
+ }
+
+ @When("^User clicks on My View Requested count$")
+ public void clicksViewRequestCard() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clicksViewRequestCard()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clicksViewRequestCard()");
+  }
+
+  logger.info(LogConstant.EXIT + "clicksViewRequestCard()");
+ }
+
+ @Then("^User is redirected to My View Requests page$")
+ public void checksViewRequestPage() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "checksViewRequestPage()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in checksViewRequestPage()");
+  }
+
+  logger.info(LogConstant.EXIT + "checksViewRequestPage()");
+ }
+
+ @When("^User clicks on DDC diamond stones count$")
+ public void clicksDDCDiamondCard() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clicksDDCDiamondCard()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clicksDDCDiamondCard()");
+  }
+
+  logger.info(LogConstant.EXIT + "clicksDDCDiamondCard()");
+ }
+
+ @Then("^User is redirected to DDC diamond page$")
+ public void checksDDCDiamondPage() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "checksDDCDiamondPage()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in checksDDCDiamondPage()");
+  }
+
+  logger.info(LogConstant.EXIT + "checksDDCDiamondPage()");
+ }
+
+ @When("^User clicks on DAYP stones count$")
+ public void clicksDAYPStoneCard() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "clicksDAYPStoneCard()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in clicksDAYPStoneCard()");
+  }
+
+  logger.info(LogConstant.EXIT + "clicksDAYPStoneCard()");
+
+ }
+
+ @Then("^User is redirected to DAYP stone page$")
+ public void checksDAYPStonePage() throws SRKayCGCoreUIException {
+  logger.info(LogConstant.ENTER + "checksDAYPStonePage()");
+  try {
+
+  } catch (Exception e) {
+   logger.debug(LogConstant.EXCEPTION + "in checksDAYPStonePage()");
+  }
+
+  logger.info(LogConstant.EXIT + "checksDAYPStonePage()");
+ }
